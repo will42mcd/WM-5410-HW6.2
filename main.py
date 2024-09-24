@@ -1,4 +1,4 @@
-# Merge Sort algorithm taken from:
+# Flocking algorithm taken from:
 # https://github.com/DKarandikar/Flocking
 # acessed on 9/23/24
 # License: MIT License
